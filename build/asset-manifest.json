@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8dab7133.css",
+    "main.js": "/static/js/main.d9689bba.js",
+    "static/media/mobile_mochila.jpg": "/static/media/mobile_mochila.520ce914b486e8383628.jpg",
+    "static/media/mobile_branco.jpg": "/static/media/mobile_branco.b3eab8d37ae218075866.jpg",
+    "static/media/mobile_bolsa_marrom.jpg": "/static/media/mobile_bolsa_marrom.348ec08c5f83dd744b14.jpg",
+    "static/media/mobile_terracota.jpg": "/static/media/mobile_terracota.bc39f43f15cf531481f2.jpg",
+    "static/media/desktop_mochila.jpg": "/static/media/desktop_mochila.5a57b6780b44c708f7a0.jpg",
+    "static/media/desktop_branco.jpg": "/static/media/desktop_branco.d46daddda01c6e440455.jpg",
+    "static/media/desktop_marrom.jpg": "/static/media/desktop_marrom.ab709d01e81fea1cdc0b.jpg",
+    "static/media/desktop_terracota.jpg": "/static/media/desktop_terracota.57b2b9a3155884c48110.jpg",
+    "static/media/Logo Sem Fundo.png": "/static/media/Logo Sem Fundo.0995264175b9d103c23c.png",
+    "index.html": "/index.html",
+    "main.8dab7133.css.map": "/static/css/main.8dab7133.css.map",
+    "main.d9689bba.js.map": "/static/js/main.d9689bba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dab7133.css",
+    "static/js/main.d9689bba.js"
+  ]
+}
