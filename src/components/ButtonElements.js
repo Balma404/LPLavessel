@@ -6,7 +6,7 @@ export const Button = styled.a`
    white-space: nowrap;
    padding: ${({big}) =>  (big ? '14px  48px' : '12px 30px')};
    color: ${({dark}) =>  (dark ? '#fff' : '#fff')};
-   font-size:${({fontBig}) =>  (fontBig ? '20px' : '16px')};
+font-size: 49px;
    outline: none;
    border: none;
    cursor: pointer;

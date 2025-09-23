@@ -39,7 +39,7 @@ const HeroSection = () => {
             </HeroP>
             <HeroBtnWrapper>
             <Button 
-                  href="https://chat.whatsapp.com/JZYZQvo6xxW0A6Ndd75ZES?mode=ems_copy_c" 
+                  href="https://chat.whatsapp.com/HX4LW6Fphb117fCdrmglLa?mode=ems_wa_t" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   primary='true' 
