@@ -12,7 +12,7 @@ const Navbar = () => {
          <IconContext.Provider value={{ color: '#fff'}}>
          <Nav>
             <NavbarContainer>
-               <NavLogo to='/don_pedro'>Don Pedro</NavLogo>
+               <NavLogo to='/dom_pedro'>Dom Pedro</NavLogo>
             </NavbarContainer>
          </Nav>
          </IconContext.Provider>
