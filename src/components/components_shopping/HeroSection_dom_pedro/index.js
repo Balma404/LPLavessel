@@ -37,7 +37,7 @@ const HeroSection = () => {
          <HeroContent>
             <HeroH1>Grupo VIP <IMG  src={Logo} alt="Lavessel Logo"/></HeroH1>
             <Button 
-                  href="https://chat.whatsapp.com/JZYZQvo6xxW0A6Ndd75ZES?mode=ems_copy_c" 
+                  href="https://chat.whatsapp.com/K2npFBbIMdNHARYIDoamdS?mode=ems_copy_t" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   primary='true' 
