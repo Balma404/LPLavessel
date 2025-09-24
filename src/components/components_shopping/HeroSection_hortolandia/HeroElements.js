@@ -28,18 +28,12 @@ export const ImgHero = styled.img`
    margin-bottom: 88px;
    margin-right: 1rem;  
 
-      @media screen and (max-width: 768px) {
-      font-size: 40px
-   }     
-
 `
 
 export const HeroContent = styled.div`
    z-index: 3;
    max-width: 1200px;
-   
    position: absolute;
-   padding: 8px 24px;
    display: flex;
    flex-direction: column;
    align-items: center;

@@ -36,10 +36,6 @@ const HeroSection = () => {
          <Banner/>
          <HeroContent>
             <HeroH1>Grupo VIP <IMG  src={Logo} alt="Lavessel Logo"/></HeroH1>
-            <HeroP>
-               Clique aqui no botão e receba as melhores promoções exclusivas
-            </HeroP>
-            <HeroBtnWrapper>
             <Button 
                   href="https://chat.whatsapp.com/JZYZQvo6xxW0A6Ndd75ZES?mode=ems_copy_c" 
                   target="_blank" 
@@ -49,6 +45,10 @@ const HeroSection = () => {
                >
             Clique Aqui
             </Button>
+            <HeroP>
+               Clique aqui no botão e receba as melhores promoções exclusivas
+            </HeroP>
+            <HeroBtnWrapper>
             </HeroBtnWrapper>
          </HeroContent>
       </HeroContainer>
